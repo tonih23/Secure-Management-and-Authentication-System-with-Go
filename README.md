@@ -1,0 +1,2 @@
+# Secure-Management-and-Authentication-System-with-Go
+Developed a secure management and authentication system using Go, featuring a secure database, cryptographic vector initialization, administrative key handling, and SSL certificate configuration. The project emphasizes data protection and reliable authentication, making it ideal for secure and scalable applications in security-focused environments
